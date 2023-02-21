@@ -1,0 +1,5 @@
+## Mengadopsi DevOps di PT Meteor Inovasi Digital
+Sebuah perusahaan PT Meteor Inovasi Digital mengadopsi sebuah DevOps yang dipimpin oleh seorang leader yang bernama David. DevOps singkatan dari Development and Operations yang merupakan sebuah budaya atau culture baru untuk mengkoordinasikan antar tim yaitu tim development dengan tim operations dengan efektif dan efisien. 
+
+Eno adalah seorang DevOps Engineer yang akan bergabung dalam tim DevOps dan ditugaskan untuk memberikan penjelasan mengenai adopsi DevOps di perusahaan PT Meteor Inovasi Digital.
+
