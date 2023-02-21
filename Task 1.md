@@ -19,7 +19,8 @@ DevOps bertujuan untuk mempercepat pengiriman produk software yang lebih baik da
 5.	Meningkatkan waktu pemulihan.
 
 #### 3.	Manfaat DevOps
-Manfaat DevOps yang dapat dirasakan oleh sebuah organisasi adalah sebagai berikut
+Manfaat DevOps yang dapat dirasakan oleh sebuah organisasi adalah sebagai berikut:
+
 a.	Kecepatan
 
 Bergerak dalam kecepatan tinggi sehingga perusahaan dapat melakukan inovasi untuk pelanggan dengan lebih cepat, beradaptasi dengan lebih baik di pasar yang berubah, dan menjadi lebih efisien dalam mendorong hasil bisnis yang berkualitas tinggi. Model DevOps memungkinkan tim pengembang dan pengoperasian perusahaan untuk mencapai hasil tersebut. Misalnya, layanan mikcro dan pengiriman berkelanjutan memungkinkan tim mendapatkan kepemilikan layanan dan kemudian meluncurkan pembaruannya dengan lebih cepat.
