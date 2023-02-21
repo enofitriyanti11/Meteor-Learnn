@@ -45,6 +45,9 @@ f.	Keamanan
 Keamanan yang ada pada DevOps dapat menentukan dan melacak kegiatan pada skala yang telah ditetapkan. Sehingga model DevOps dapat digunakan tanpa mengorbankan keamanan dengan menggunakan kebijakan kepatuhan yang terautomasi, control yang menyeluruh dan teknik manajemen konfigurasi.
  
 #### 4.	Tahapan-Tahapan Siklus DevOps
+
+![DevOps Siklus]{/downloads/SiklusDevOps.png}
+
 Siklus DevOps mencakup serangkaian kombinasi yang secarra umum dikenal sebagai “DevOps Lifecycle”. Tahapan-tahapannya yaitu sebagai berikut:
 
 1)	Plan
